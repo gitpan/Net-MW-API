@@ -35,11 +35,12 @@ Attributes
     the word to query
 
   key
-	has 'key' => (
-	    is => 'ro',
-	    isa => 'Str',
-	    required => 1
-	);
+            has 'key' => (
+                is => 'ro',
+                isa => 'Str',
+                required => 1
+            );
+
   url
     the query url based on $dict, $word, $key
 

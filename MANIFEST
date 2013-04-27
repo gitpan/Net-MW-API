@@ -7,10 +7,6 @@ META.yml
 README
 cpanfile
 dist.ini
-examples/a.html
-examples/a.txt
-examples/a.xml
-examples/a.xml~
 examples/collegiate-tag-description.txt
 examples/mv.xml
 examples/t.pl
