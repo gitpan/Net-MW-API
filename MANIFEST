@@ -7,13 +7,7 @@ META.yml
 README
 cpanfile
 dist.ini
-examples/collegiate-tag-description.txt
-examples/mv.xml
-examples/t.pl
-examples/xml.pl
-examples/xml_simple.pl
 lib/Net/MW/API.pm
-lib/Net/MW/API.pm~
 t/basic.t
 t/basic.t~
 t/release-pod-syntax.t
