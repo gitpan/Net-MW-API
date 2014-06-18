@@ -3,15 +3,15 @@ abstract: 'use Merriam-Webster dictionay API in Perl '
 author:
   - 'Hao Wu <echowuhao@gmail.com>'
 build_requires:
-  Test::More: 0.88
+  Test::More: '0.88'
 configure_requires:
-  Module::Build::Tiny: 0.014
+  Module::Build::Tiny: '0.036'
 dynamic_config: 0
-generated_by: 'Dist::Milla version v1.0.0, Dist::Zilla version 4.300033, CPAN::Meta::Converter version 2.120921'
+generated_by: 'Dist::Milla version v1.0.5, Dist::Zilla version 5.019, CPAN::Meta::Converter version 2.140640'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
-  version: 1.4
+  version: '1.4'
 name: Net-MW-API
 no_index:
   directory:
@@ -22,15 +22,15 @@ no_index:
     - eg
     - examples
 requires:
-  Method::Signatures::Simple: 0
-  Moose: 0
-  URI::Escape: 0
-  XML::LibXML: 0
+  Moose: '0'
+  URI::Escape: '0'
+  XML::LibXML: '0'
   perl: v5.14.0
 resources:
   bugtracker: https://github.com/swuecho/-Net-MW-API-/issues
   homepage: https://github.com/swuecho/-Net-MW-API-
   repository: https://github.com/swuecho/-Net-MW-API-.git
-version: 0.03
+version: '0.04'
 x_contributors:
   - 'Hao <echowuhao@gmail.com>'
+  - 'Hao Wu <hwu@intellisurvey.com>'
