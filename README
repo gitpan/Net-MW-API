@@ -1,5 +1,5 @@
 NAME
-    Net::MW::API - use Merriam-Webster dictionay API in Perl
+    Net::MW::API - use Merriam-Webster dictionary API in Perl
 
 SYNOPSIS
             use Net::MW::API;
